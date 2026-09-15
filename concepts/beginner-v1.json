@@ -1,0 +1,426 @@
+{
+  "schema": "kh-concepts-v1",
+  "version": 1,
+  "title": "첫 흐름을 잡는 24개 개념",
+  "source": "self-authored",
+  "scope": "전 범위를 대표하는 입문 카드입니다. 단원 전체나 합격에 필요한 모든 개념을 다루는 자료는 아닙니다.",
+  "verification": "Codex가 표시한 출처의 해당 사실을 대조함. Claude의 교차 검토는 별도. 공식 기출 해설이나 공식 시험 성적 자료가 아님.",
+  "units": [
+    {
+      "id": "first-01",
+      "era": "선사·고조선",
+      "title": "선사 생활부터 읽기",
+      "goal": "유물 이름을 생활 모습과 연결해 보세요.",
+      "nextTopics": [
+        "고조선의 8조법",
+        "초기 여러 나라의 풍속"
+      ],
+      "cards": [
+        {
+          "id": "first-01-01",
+          "title": "농사와 정착",
+          "body": "신석기 사람들은 농경과 목축을 시작했습니다. 빗살무늬 토기, 뼈바늘, 가락바퀴를 생활의 변화와 함께 떠올려 보세요.",
+          "recallQuestion": "빗살무늬 토기와 농경의 시작을 함께 연결할 시대는?",
+          "recallAnswer": "신석기 시대입니다.",
+          "contrast": "농사가 시작된 시기와 계급이 뚜렷해진 시기를 구분하세요.",
+          "sourceUrl": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_m31_0040_0010",
+          "sourceTitle": "국사편찬위원회 우리역사넷",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-01-02",
+          "title": "무덤으로 보는 권력",
+          "body": "청동기 시대에는 농업이 발달하고 계층이 나타났습니다. 큰 고인돌은 많은 사람의 노동을 동원할 수 있는 권력을 생각하게 하는 단서입니다.",
+          "recallQuestion": "큰 고인돌이 단순한 돌무덤 이상의 단서인 이유는?",
+          "recallAnswer": "많은 인력을 동원할 수 있는 지배층과 계급 사회를 보여 주기 때문입니다.",
+          "contrast": "청동기라는 이름만 보고 생활 도구가 모두 청동이었다고 생각하지 마세요.",
+          "sourceUrl": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_m41_0030_0010",
+          "sourceTitle": "국사편찬위원회 우리역사넷",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-01-03",
+          "title": "유물 두 묶음",
+          "body": "신석기의 빗살무늬 토기와 청동기의 민무늬 토기를 나란히 구별해 봅니다. 먼저 큰 시대를 잡고 다른 유물 단서를 확인하세요.",
+          "recallQuestion": "빗살무늬 토기와 민무늬 토기를 각각 어느 시대의 대표 단서로 연결할까요?",
+          "recallAnswer": "빗살무늬 토기는 신석기, 민무늬 토기는 청동기입니다.",
+          "contrast": "단서 하나를 외운 뒤 실제 문제의 다른 표현과도 맞는지 확인하세요.",
+          "sourceUrl": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_m41_0030_0010",
+          "sourceTitle": "국사편찬위원회 우리역사넷",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        }
+      ]
+    },
+    {
+      "id": "first-02",
+      "era": "고대·남북국·후삼국",
+      "title": "삼국의 왕과 제도",
+      "goal": "한 왕의 정책을 나라를 운영하는 방법으로 연결해 보세요.",
+      "nextTopics": [
+        "삼국의 영토 확대",
+        "신라 법흥왕·진흥왕",
+        "가야"
+      ],
+      "cards": [
+        {
+          "id": "first-02-01",
+          "title": "소수림왕의 세 가지 정비",
+          "body": "고구려 소수림왕은 불교 수용, 태학 설립, 율령 반포를 추진했습니다. 종교·교육·법을 함께 정비한 왕으로 묶어 기억합니다.",
+          "recallQuestion": "불교·태학·율령이라는 단서가 함께 나오면 누구를 떠올릴까요?",
+          "recallAnswer": "고구려 소수림왕입니다.",
+          "contrast": "태학은 불교 사찰이 아니라 교육 기관입니다.",
+          "sourceUrl": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_009_0030",
+          "sourceTitle": "국사편찬위원회 우리역사넷",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-02-02",
+          "title": "372년과 373년",
+          "body": "소수림왕 때 불교 수용과 태학 설립은 372년, 율령 반포는 373년입니다. 한 묶음의 정책이어도 같은 해에 모두 시행된 것은 아닙니다.",
+          "recallQuestion": "태학 설립과 율령 반포 중 먼저 일어난 것은?",
+          "recallAnswer": "372년 태학 설립이 먼저이고, 373년 율령 반포가 뒤입니다.",
+          "contrast": "왕 이름을 아는 것과 사건의 앞뒤를 아는 것은 별도로 연습하세요.",
+          "sourceUrl": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_009_0030",
+          "sourceTitle": "국사편찬위원회 우리역사넷",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-02-03",
+          "title": "사료를 제도로 바꾸기",
+          "body": "국가가 자제를 교육한다는 표현은 태학, 법을 반포한다는 표현은 율령으로 연결할 수 있습니다. 긴 사료를 제도 이름 한두 개로 줄여 봅니다.",
+          "recallQuestion": "사료의 교육·법이라는 두 표현을 어떤 정책에 연결할까요?",
+          "recallAnswer": "태학 설립과 율령 반포입니다.",
+          "contrast": "제도 이름이 직접 나오지 않아도 행동을 설명하는 말을 찾으세요.",
+          "sourceUrl": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_009_0030",
+          "sourceTitle": "국사편찬위원회 우리역사넷",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        }
+      ]
+    },
+    {
+      "id": "first-03",
+      "era": "고대·남북국·후삼국",
+      "title": "남북국에서 고려로",
+      "goal": "나라가 세워진 때와 통일한 때를 구분해 보세요.",
+      "nextTopics": [
+        "통일 신라의 제도",
+        "발해의 발전",
+        "신라 말 호족"
+      ],
+      "cards": [
+        {
+          "id": "first-03-01",
+          "title": "후삼국의 시작",
+          "body": "신라 말 지방 통제력이 약해진 가운데 견훤의 후백제와 궁예의 후고구려가 등장했습니다. 왕건은 궁예를 몰아내고 918년 고려를 세웠습니다.",
+          "recallQuestion": "견훤·궁예·왕건을 각각 어떤 나라와 연결할까요?",
+          "recallAnswer": "견훤은 후백제, 궁예는 후고구려, 왕건은 고려입니다.",
+          "contrast": "후고구려와 왕건의 고려를 같은 건국 사건으로 합치지 마세요.",
+          "sourceUrl": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_10&levelId=kc_i101800",
+          "sourceTitle": "국사편찬위원회 우리역사넷",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-03-02",
+          "title": "918과 936",
+          "body": "왕건은 918년 고려를 건국했고, 935년 신라를 받아들인 뒤 936년 후백제를 통합하여 후삼국 통일을 완성했습니다.",
+          "recallQuestion": "고려 건국 → 신라 귀부 → 후삼국 통일의 순서를 말해 보세요.",
+          "recallAnswer": "918년 → 935년 → 936년입니다.",
+          "contrast": "건국 직후 바로 후삼국이 통일된 것은 아닙니다.",
+          "sourceUrl": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_10&levelId=kc_i101800",
+          "sourceTitle": "국사편찬위원회 우리역사넷",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-03-03",
+          "title": "발해 유민 포용",
+          "body": "왕건은 발해 유민을 받아들였고, 발해 왕자 대광현을 우대했습니다. 통일 과정은 전쟁뿐 아니라 사람을 포용하는 정책도 함께 봅니다.",
+          "recallQuestion": "대광현과 발해 유민 포용이라는 단서는 어느 왕의 정책일까요?",
+          "recallAnswer": "고려 태조 왕건의 정책입니다.",
+          "contrast": "발해를 고려가 정복했다는 설명과는 구분하세요.",
+          "sourceUrl": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_10&levelId=kc_i101800",
+          "sourceTitle": "국사편찬위원회 우리역사넷",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        }
+      ]
+    },
+    {
+      "id": "first-04",
+      "era": "고려",
+      "title": "고려 초기 왕 구별하기",
+      "goal": "광종과 성종을 정책의 대상으로 구별해 보세요.",
+      "nextTopics": [
+        "고려의 대외 관계",
+        "무신 집권",
+        "공민왕 개혁"
+      ],
+      "cards": [
+        {
+          "id": "first-04-01",
+          "title": "광종과 노비안검법",
+          "body": "광종은 노비의 신분을 조사하여 그 시비를 가리도록 했습니다. 노비안검법이라는 단서가 나오면 고려 광종을 연결합니다.",
+          "recallQuestion": "노비의 신분을 조사한 고려 왕은?",
+          "recallAnswer": "광종입니다.",
+          "contrast": "모든 노비를 한꺼번에 없앤 제도라고 설명하면 지나친 일반화입니다.",
+          "sourceUrl": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_20&levelId=kc_i200500",
+          "sourceTitle": "국사편찬위원회 우리역사넷",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-04-02",
+          "title": "성종과 최승로",
+          "body": "최승로의 시무 28조는 성종 때 제출된 정치 개혁안입니다. 지방에 관리가 머물며 다스리게 하자는 건의와 12목 정비를 함께 연결합니다.",
+          "recallQuestion": "시무 28조·최승로·12목을 연결할 왕은?",
+          "recallAnswer": "고려 성종입니다.",
+          "contrast": "고려 성종과 조선 성종은 다른 인물입니다. 나라 이름까지 붙여 답하세요.",
+          "sourceUrl": "https://contents.history.go.kr/mobile/hm/view.do?levelId=hm_046_0020",
+          "sourceTitle": "국사편찬위원회 우리역사넷",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-04-03",
+          "title": "유교와 불교의 역할",
+          "body": "최승로는 유교를 나라를 다스리는 기준으로, 불교를 마음을 닦는 길로 구분했습니다. 불교 의식의 낭비를 비판한 것을 불교 자체의 전면 폐지로 읽지 않습니다.",
+          "recallQuestion": "최승로가 국가 운영의 기준으로 강조한 사상은?",
+          "recallAnswer": "유교입니다.",
+          "contrast": "정치적 역할의 구분을 종교 자체의 금지와 혼동하지 마세요.",
+          "sourceUrl": "https://contents.history.go.kr/mobile/hm/view.do?levelId=hm_046_0020",
+          "sourceTitle": "국사편찬위원회 우리역사넷",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        }
+      ]
+    },
+    {
+      "id": "first-05",
+      "era": "조선",
+      "title": "조선의 세금 구별하기",
+      "goal": "법 이름보다 무엇을 바꾼 제도인지 먼저 답해 보세요.",
+      "nextTopics": [
+        "조선 전기 왕별 정책",
+        "임진왜란·병자호란",
+        "붕당과 탕평"
+      ],
+      "cards": [
+        {
+          "id": "first-05-01",
+          "title": "대동법은 공납 개혁",
+          "body": "대동법은 공납의 폐단을 줄이려는 제도입니다. 토산물을 내던 부담을 토지 면적에 따라 쌀·베·돈 등으로 내는 방식으로 바꾸었습니다.",
+          "recallQuestion": "공납을 토지 면적에 따라 쌀 등으로 내게 한 제도는?",
+          "recallAnswer": "대동법입니다.",
+          "contrast": "공납 개혁을 군포 감면과 혼동하지 마세요.",
+          "sourceUrl": "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_m62_0020_0010",
+          "sourceTitle": "국사편찬위원회 우리역사넷",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-05-02",
+          "title": "균역법은 군포 감면",
+          "body": "영조 때 균역법은 군포 부담을 연간 2필에서 1필로 줄였습니다. 부족한 재정을 보충하기 위해 결작 등을 거두었습니다.",
+          "recallQuestion": "영조·군포 1필이라는 단서가 가리키는 제도는?",
+          "recallAnswer": "균역법입니다.",
+          "contrast": "군역 의무가 모두 사라졌다는 뜻은 아닙니다.",
+          "sourceUrl": "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_m62_0020_0010",
+          "sourceTitle": "국사편찬위원회 우리역사넷",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-05-03",
+          "title": "전세·공납·군역",
+          "body": "영정법은 전세, 대동법은 공납, 균역법은 군역 부담을 연결하는 출발점입니다. 세 법을 외울 때 바뀐 세금의 종류부터 말해 봅니다.",
+          "recallQuestion": "공납과 군포를 바꾼 법을 각각 말해 보세요.",
+          "recallAnswer": "공납은 대동법, 군포는 균역법입니다.",
+          "contrast": "세금이 모두 하나로 통합되었다고 해석하지 마세요.",
+          "sourceUrl": "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_m62_0020_0010",
+          "sourceTitle": "국사편찬위원회 우리역사넷",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        }
+      ]
+    },
+    {
+      "id": "first-06",
+      "era": "개항기·대한제국",
+      "title": "개항 뒤의 변화 읽기",
+      "goal": "조약의 문장을 권리의 차이로 해석해 보세요.",
+      "nextTopics": [
+        "개항 이후 사건 순서",
+        "동학 농민 운동·갑오개혁",
+        "광무개혁·국권 침탈"
+      ],
+      "cards": [
+        {
+          "id": "first-06-01",
+          "title": "강화도 조약의 불평등",
+          "body": "강화도 조약에는 일본인의 범죄를 일본 관리가 재판하고, 조선의 해안을 일본 항해자가 측량하도록 하는 내용이 담겼습니다.",
+          "recallQuestion": "조선에서 일본인의 범죄를 일본 측이 재판한다는 조항은 어떤 권리를 떠올리게 하나요?",
+          "recallAnswer": "영사 재판권을 떠올릴 수 있습니다.",
+          "contrast": "겉으로 대등한 조약이라는 표현만 보고 실제 조항도 평등하다고 판단하지 마세요.",
+          "sourceUrl": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_m71_0080_0020_0040",
+          "sourceTitle": "국사편찬위원회 우리역사넷",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-06-02",
+          "title": "정부의 개화 정책",
+          "body": "개항 뒤 조선 정부는 시찰단·유학생을 보내고 통리기무아문과 별기군을 설치했습니다. 새 문물과 제도를 받아들이려는 움직임입니다.",
+          "recallQuestion": "통리기무아문·별기군은 개화 정책과 위정척사 중 어느 흐름에 연결할까요?",
+          "recallAnswer": "정부의 개화 정책입니다.",
+          "contrast": "개화를 추진한 정부와 이에 반대한 유생의 입장을 나누어 읽으세요.",
+          "sourceUrl": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_m71_0080_0020_0040",
+          "sourceTitle": "국사편찬위원회 우리역사넷",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-06-03",
+          "title": "갑신정변의 방향과 실패",
+          "body": "개화파는 갑신정변을 통해 위로부터 근대적 개혁을 추진하려 했지만 청의 개입으로 실패했습니다. 누가 주도했고 누가 개입했는지 나누어 봅니다.",
+          "recallQuestion": "갑신정변을 실패로 이끈 외세의 개입은?",
+          "recallAnswer": "청의 개입입니다.",
+          "contrast": "개혁을 주도한 사람과 개혁을 막은 세력을 한 문장 안에서 뒤바꾸지 마세요.",
+          "sourceUrl": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_m71_0080_0020_0040",
+          "sourceTitle": "국사편찬위원회 우리역사넷",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        }
+      ]
+    },
+    {
+      "id": "first-07",
+      "era": "일제강점기",
+      "title": "독립운동의 연결",
+      "goal": "운동의 발생과 그 뒤의 조직 변화를 연결해 보세요.",
+      "nextTopics": [
+        "시기별 식민 통치",
+        "국내 사회·문화 운동",
+        "독립군과 한국광복군"
+      ],
+      "cards": [
+        {
+          "id": "first-07-01",
+          "title": "1919년 3·1 운동",
+          "body": "1919년 3월 1일의 독립 선언과 만세 시위는 국내외로 퍼졌습니다. 하나의 지역에서만 일어난 사건으로 좁혀 생각하지 않습니다.",
+          "recallQuestion": "기미년 독립 선언·전국의 만세 시위라는 단서는?",
+          "recallAnswer": "1919년 3·1 운동입니다.",
+          "contrast": "1919년을 다른 독립운동의 연도와 구분하는 기준으로 써 보세요.",
+          "sourceUrl": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i400200",
+          "sourceTitle": "국사편찬위원회 우리역사넷",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-07-02",
+          "title": "임시정부로 이어지다",
+          "body": "3·1 운동 뒤 국내외에서 임시정부 수립이 추진되었습니다. 상하이의 대한민국 임시정부는 1919년 4월 임시헌장을 제정했습니다.",
+          "recallQuestion": "3·1 운동 뒤 독립운동의 구심점을 만들려는 움직임은 어떤 정부 수립으로 이어졌나요?",
+          "recallAnswer": "대한민국 임시정부 수립입니다.",
+          "contrast": "대한제국의 황제 체제와 민주공화정을 구분하세요.",
+          "sourceUrl": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_123_0100",
+          "sourceTitle": "국사편찬위원회 우리역사넷",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-07-03",
+          "title": "각지의 임시정부 통합",
+          "body": "서울·연해주·상하이 등지에서 추진된 임시정부는 통합을 논의했습니다. 서로 흩어진 독립운동의 힘을 모으려는 흐름으로 이해합니다.",
+          "recallQuestion": "여러 임시정부가 통합을 추진한 방향을 한 문장으로 설명해 보세요.",
+          "recallAnswer": "독립운동을 함께 이끌 구심점을 마련하려는 것이었습니다.",
+          "contrast": "여러 곳에서 동시에 움직였다는 점과 통합의 과정을 함께 기억하세요.",
+          "sourceUrl": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_o400800",
+          "sourceTitle": "국사편찬위원회 우리역사넷",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        }
+      ]
+    },
+    {
+      "id": "first-08",
+      "era": "현대",
+      "title": "민주화의 요구와 결과",
+      "goal": "시위의 요구와 제도의 변화를 연결해 보세요.",
+      "nextTopics": [
+        "광복·정부 수립",
+        "6·25 전쟁",
+        "4·19·5·18",
+        "남북 관계"
+      ],
+      "cards": [
+        {
+          "id": "first-08-01",
+          "title": "호헌과 직선제",
+          "body": "1987년 4·13 호헌 조치는 기존 헌법으로 대통령을 선출하겠다는 것이었습니다. 시민들은 대통령 직선제를 포함한 민주화를 요구했습니다.",
+          "recallQuestion": "호헌 철폐와 직선제 개헌을 요구한 1987년의 항쟁은?",
+          "recallAnswer": "6월 민주 항쟁입니다.",
+          "contrast": "호헌은 새 헌법을 만들자는 뜻이 아니라 기존 헌법을 유지한다는 뜻입니다.",
+          "sourceUrl": "https://contents.history.go.kr/front/hm/print.do?levelId=hm_151_0050",
+          "sourceTitle": "국사편찬위원회 우리역사넷",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-08-02",
+          "title": "항쟁에서 선언으로",
+          "body": "6월 민주 항쟁 뒤 6·29 선언은 대통령 직선제 개헌 등의 요구를 수용했습니다. 선언을 시민의 요구와 분리해 외우지 않습니다.",
+          "recallQuestion": "6월 민주 항쟁 → 어떤 선언 → 대통령 직선제 개헌일까요?",
+          "recallAnswer": "6·29 선언입니다.",
+          "contrast": "민주화 운동이 어떤 제도 변화로 이어졌는지 함께 답해 보세요.",
+          "sourceUrl": "https://contents.history.go.kr/front/hm/print.do?levelId=hm_151_0050",
+          "sourceTitle": "국사편찬위원회 우리역사넷",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-08-03",
+          "title": "5년 단임과 직선제",
+          "body": "6월 민주 항쟁 이후 개헌으로 대통령 5년 단임과 직선제가 마련되었습니다. 임기와 선출 방식을 각각 구별합니다.",
+          "recallQuestion": "5년 단임은 임기와 선출 방식 중 무엇에 관한 내용인가요?",
+          "recallAnswer": "임기에 관한 내용입니다. 직선제는 국민이 대통령을 직접 뽑는 선출 방식입니다.",
+          "contrast": "5년이라는 숫자만 외우지 말고 직선·간선도 따로 구분하세요.",
+          "sourceUrl": "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_h62_0050_0030_0030",
+          "sourceTitle": "국사편찬위원회 우리역사넷",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        }
+      ]
+    }
+  ]
+}
