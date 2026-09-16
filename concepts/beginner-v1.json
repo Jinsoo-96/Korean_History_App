@@ -1,19 +1,19 @@
 {
   "schema": "kh-concepts-v1",
-  "version": 1,
-  "title": "첫 흐름을 잡는 24개 개념",
+  "version": 2,
+  "title": "전 시대 첫 흐름 · 입문 40장",
   "source": "self-authored",
-  "scope": "전 범위를 대표하는 입문 카드입니다. 단원 전체나 합격에 필요한 모든 개념을 다루는 자료는 아닙니다.",
-  "verification": "Codex가 표시한 출처의 해당 사실을 대조함. Claude의 교차 검토는 별도. 공식 기출 해설이나 공식 시험 성적 자료가 아님.",
+  "scope": "전 시대의 첫 단서를 연결하는 입문 40장. 전체 시험 범위를 완성한 교재가 아니며, 기출 오답과 함께 계속 보강한다.",
+  "verification": "출처를 대조해 직접 작성한 입문 카드입니다. 국사편찬위원회의 공식 해설이나 승인 자료는 아닙니다.",
   "units": [
     {
       "id": "first-01",
       "era": "선사·고조선",
-      "title": "선사 생활부터 읽기",
+      "title": "선사 생활과 고조선",
       "goal": "유물 이름을 생활 모습과 연결해 보세요.",
       "nextTopics": [
-        "고조선의 8조법",
-        "초기 여러 나라의 풍속"
+        "초기 여러 나라의 풍속",
+        "철기 문화와 고조선의 발전"
       ],
       "cards": [
         {
@@ -54,6 +54,32 @@
           "status": "source-checked",
           "checkedBy": "Codex",
           "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-01-04",
+          "title": "먹거리를 따라 이동",
+          "body": "구석기 사람들은 짐승을 사냥하고 열매 등을 채집하며 살았습니다. 먹거리를 찾아 이동했고, 돌을 떼어 만든 주먹도끼 같은 뗀석기를 사용했습니다.",
+          "recallQuestion": "주먹도끼·사냥·채집·이동 생활을 연결할 시대는?",
+          "recallAnswer": "구석기 시대입니다.",
+          "contrast": "농경의 시작을 묻는 신석기 단서와 구분하세요.",
+          "sourceUrl": "https://contents.history.go.kr/mobile/eh/view.do?code=eh_age_10&levelId=eh_r0030_0010",
+          "sourceTitle": "국사편찬위원회 우리역사넷 · 구석기인의 생활 모습을 알려주는 연천 전곡리 유적",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-01-05",
+          "title": "법으로 읽는 고조선 사회",
+          "body": "고조선의 8조법은 오늘날 세 조항이 전해집니다. 살인·상해·절도를 다루는 내용에서 생명과 노동력, 재산을 중시했고 노비가 존재했음을 읽을 수 있습니다.",
+          "recallQuestion": "8조법의 절도와 노비 관련 내용으로 알 수 있는 사회 모습 두 가지는?",
+          "recallAnswer": "사유 재산이 인정되었고 신분 차이가 있었습니다.",
+          "contrast": "법 이름은 8조법이지만 여덟 조항의 내용이 모두 남아 있는 것은 아닙니다.",
+          "sourceUrl": "https://contents.history.go.kr/mobile/tg/view.do?levelId=tg_001_0500&pageUnit=10&subjectCode=all",
+          "sourceTitle": "국사편찬위원회 우리역사넷 · 교과서 용어해설 · 8조법",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
         }
       ]
     },
@@ -63,9 +89,9 @@
       "title": "삼국의 왕과 제도",
       "goal": "한 왕의 정책을 나라를 운영하는 방법으로 연결해 보세요.",
       "nextTopics": [
-        "삼국의 영토 확대",
-        "신라 법흥왕·진흥왕",
-        "가야"
+        "고구려·백제의 영토 확대",
+        "신라의 불교 공인",
+        "가야의 생활과 교류"
       ],
       "cards": [
         {
@@ -106,17 +132,43 @@
           "status": "source-checked",
           "checkedBy": "Codex",
           "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-02-04",
+          "title": "법흥왕: 법과 나라의 체제",
+          "body": "신라 법흥왕은 율령을 반포하고 관리의 공복을 정했습니다. 532년에는 금관가야를 복속시켰습니다. 나라 이름과 왕 이름을 붙여 단서를 묶어 보세요.",
+          "recallQuestion": "신라의 율령 반포와 금관가야 복속을 연결할 왕은?",
+          "recallAnswer": "신라 법흥왕입니다.",
+          "contrast": "금관가야와 대가야는 서로 다른 시기에 신라에 편입되었습니다.",
+          "sourceUrl": "https://contents.history.go.kr/mobile/hm/view.do?levelId=hm_011_0040",
+          "sourceTitle": "국사편찬위원회 우리역사넷 · 법흥왕의 체제 정비와 금관가야 정복",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-02-05",
+          "title": "진흥왕: 한강과 대가야",
+          "body": "진흥왕 때 신라는 한강 유역을 차지하고 대가야를 정복했습니다. 화랑도를 정비한 것도 연결합니다. 앞선 법흥왕의 정책과 나란히 비교해 보세요.",
+          "recallQuestion": "한강 유역 진출·대가야 정복·화랑도 정비를 연결할 신라 왕은?",
+          "recallAnswer": "진흥왕입니다.",
+          "contrast": "금관가야는 법흥왕, 대가야는 진흥왕으로 구분합니다.",
+          "sourceUrl": "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_m31_0050_0010",
+          "sourceTitle": "국사편찬위원회 우리역사넷 · 역대 국사교과서 · 삼국의 발전",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
         }
       ]
     },
     {
       "id": "first-03",
       "era": "고대·남북국·후삼국",
-      "title": "남북국에서 고려로",
+      "title": "통일 신라·발해·후삼국",
       "goal": "나라가 세워진 때와 통일한 때를 구분해 보세요.",
       "nextTopics": [
-        "통일 신라의 제도",
-        "발해의 발전",
+        "통일 신라의 사회와 경제",
+        "발해의 문화",
         "신라 말 호족"
       ],
       "cards": [
@@ -158,17 +210,43 @@
           "status": "source-checked",
           "checkedBy": "Codex",
           "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-03-04",
+          "title": "통일 뒤 나라를 정비한 신문왕",
+          "body": "신문왕은 국학을 설치하고 관료전을 지급했으며 녹읍을 폐지했습니다. 지방의 9주 5소경 체제도 완성했습니다. 통일 뒤 넓어진 나라를 다스리는 방법으로 묶어 봅니다.",
+          "recallQuestion": "국학·관료전·녹읍 폐지·9주 5소경이 함께 나오면 어느 왕일까요?",
+          "recallAnswer": "통일 신라 신문왕입니다.",
+          "contrast": "국학은 교육 기관이고, 관료전과 녹읍은 관리의 경제적 기반과 관련됩니다.",
+          "sourceUrl": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_n101240",
+          "sourceTitle": "국사편찬위원회 우리역사넷 · 한국사연대기 · 신문왕",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-03-05",
+          "title": "발해의 세 왕 비교",
+          "body": "무왕 때에는 당의 등주를 공격했습니다. 문왕은 당과 우호 관계를 맺고 제도를 정비했으며, 선왕 때 발해는 해동성국으로 불릴 만큼 발전했습니다.",
+          "recallQuestion": "등주 공격 → 당과 우호·체제 정비 → 해동성국을 순서대로 왕과 연결하면?",
+          "recallAnswer": "무왕 → 문왕 → 선왕입니다.",
+          "contrast": "같은 발해라도 대외 관계와 정책은 왕과 시기에 따라 달랐습니다.",
+          "sourceUrl": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_10&levelId=kc_n101100",
+          "sourceTitle": "국사편찬위원회 우리역사넷 · 한국사연대기 · 발해 문왕",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
         }
       ]
     },
     {
       "id": "first-04",
       "era": "고려",
-      "title": "고려 초기 왕 구별하기",
+      "title": "고려의 정치와 대외 관계",
       "goal": "광종과 성종을 정책의 대상으로 구별해 보세요.",
       "nextTopics": [
-        "고려의 대외 관계",
         "무신 집권",
+        "몽골 침입과 원 간섭",
         "공민왕 개혁"
       ],
       "cards": [
@@ -210,18 +288,44 @@
           "status": "source-checked",
           "checkedBy": "Codex",
           "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-04-04",
+          "title": "거란: 협상과 전투의 인물",
+          "body": "서희는 거란과의 협상으로 강동 6주 확보의 길을 열었습니다. 뒤의 거란 침입 때 강감찬은 귀주에서 큰 승리를 거두었습니다. 상대는 같아도 인물과 대응 방법은 다릅니다.",
+          "recallQuestion": "강동 6주의 외교 담판과 귀주 대첩을 각각 누구와 연결하나요?",
+          "recallAnswer": "서희와 강감찬입니다.",
+          "contrast": "여진 정벌의 윤관과 거란을 막은 인물들을 구분하세요.",
+          "sourceUrl": "https://contents.history.go.kr/front/kc/printViewPopup.do?levelId=kc_i200300",
+          "sourceTitle": "국사편찬위원회 우리역사넷 · 한국사연대기 · 고려와 거란의 전쟁",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-04-05",
+          "title": "여진: 별무반과 동북 9성",
+          "body": "고려는 윤관의 건의로 별무반을 편성하고 여진에 맞섰습니다. 윤관은 여진을 정벌하여 동북 9성을 쌓았습니다. 기병·보병·승병으로 이루어진 군대라는 단서도 함께 봅니다.",
+          "recallQuestion": "윤관·별무반·동북 9성이 등장하면 상대 세력은?",
+          "recallAnswer": "여진입니다.",
+          "contrast": "강동 6주는 거란과의 관계, 동북 9성은 여진과의 관계입니다.",
+          "sourceUrl": "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_h71_0040_0020_0050_0020",
+          "sourceTitle": "국사편찬위원회 우리역사넷 · 여진 정벌과 동북 9성 개척",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
         }
       ]
     },
     {
       "id": "first-05",
       "era": "조선",
-      "title": "조선의 세금 구별하기",
+      "title": "조선의 세금과 전쟁",
       "goal": "법 이름보다 무엇을 바꾼 제도인지 먼저 답해 보세요.",
       "nextTopics": [
         "조선 전기 왕별 정책",
-        "임진왜란·병자호란",
-        "붕당과 탕평"
+        "붕당과 탕평",
+        "조선 후기 사회·문화"
       ],
       "cards": [
         {
@@ -262,18 +366,44 @@
           "status": "source-checked",
           "checkedBy": "Codex",
           "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-05-04",
+          "title": "왜란: 일본의 침입과 대응",
+          "body": "1592년 일본군의 침입으로 임진왜란이 시작되었습니다. 이순신의 수군, 여러 지역의 의병, 관군과 명군의 활동을 함께 봅니다. 1597년의 재침은 정유재란입니다.",
+          "recallQuestion": "1592년과 1597년에 시작된 일본의 침입을 각각 무엇이라고 하나요?",
+          "recallAnswer": "임진왜란과 정유재란입니다.",
+          "contrast": "왜란의 상대인 일본과 호란의 상대인 후금·청을 구분하세요.",
+          "sourceUrl": "https://contents.history.go.kr/eh_kk/teach/tong/III/18.htm",
+          "sourceTitle": "국사편찬위원회 우리역사넷 · 국사전자교과서 · 양 난의 극복",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-05-05",
+          "title": "호란: 명과 후금·청 사이",
+          "body": "광해군은 명과 후금 사이에서 중립 외교를 폈습니다. 인조 때에는 1627년 후금의 정묘호란, 1636년 청의 병자호란이 일어났습니다. 병자호란은 남한산성 항전과 연결합니다.",
+          "recallQuestion": "후금의 정묘호란과 청의 병자호란은 어느 왕 때였나요?",
+          "recallAnswer": "조선 인조 때입니다.",
+          "contrast": "중립 외교의 광해군과 두 호란을 겪은 인조를 바꾸어 외우지 마세요.",
+          "sourceUrl": "https://contents.history.go.kr/eh_kk/teach/tong/III/18.htm",
+          "sourceTitle": "국사편찬위원회 우리역사넷 · 국사전자교과서 · 양 난의 극복",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
         }
       ]
     },
     {
       "id": "first-06",
       "era": "개항기·대한제국",
-      "title": "개항 뒤의 변화 읽기",
+      "title": "개항에서 근대 개혁으로",
       "goal": "조약의 문장을 권리의 차이로 해석해 보세요.",
       "nextTopics": [
         "개항 이후 사건 순서",
-        "동학 농민 운동·갑오개혁",
-        "광무개혁·국권 침탈"
+        "광무개혁",
+        "국권 침탈과 항일 운동"
       ],
       "cards": [
         {
@@ -283,8 +413,8 @@
           "recallQuestion": "조선에서 일본인의 범죄를 일본 측이 재판한다는 조항은 어떤 권리를 떠올리게 하나요?",
           "recallAnswer": "영사 재판권을 떠올릴 수 있습니다.",
           "contrast": "겉으로 대등한 조약이라는 표현만 보고 실제 조항도 평등하다고 판단하지 마세요.",
-          "sourceUrl": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_m71_0080_0020_0040",
-          "sourceTitle": "국사편찬위원회 우리역사넷",
+          "sourceUrl": "https://contents.history.go.kr/mobile/hm/view.do?levelId=hm_115_0010",
+          "sourceTitle": "우리역사넷 · 사료로 본 한국사 · 강화도 조약-조일 수호 조규",
           "status": "source-checked",
           "checkedBy": "Codex",
           "checkedAt": "2026-09-16"
@@ -310,7 +440,33 @@
           "recallAnswer": "청의 개입입니다.",
           "contrast": "개혁을 주도한 사람과 개혁을 막은 세력을 한 문장 안에서 뒤바꾸지 마세요.",
           "sourceUrl": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_m71_0080_0020_0040",
-          "sourceTitle": "국사편찬위원회 우리역사넷",
+          "sourceTitle": "우리역사넷 · 중학교 국사 7차 · 학습 정리: 개화와 자주 운동",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-06-04",
+          "title": "동학 농민군의 개혁과 재봉기",
+          "body": "전봉준 등이 이끈 동학 농민군은 전주 화약 뒤 집강소를 설치하여 폐정 개혁을 추진했습니다. 일본의 침략에 맞서 다시 봉기했지만 공주 우금치에서 패했습니다.",
+          "recallQuestion": "집강소와 공주 우금치 전투를 연결할 운동은?",
+          "recallAnswer": "동학 농민 운동입니다.",
+          "contrast": "집강소는 농민군의 개혁 기구이고, 군국기무처는 갑오개혁을 추진한 정부 기구입니다.",
+          "sourceUrl": "https://contents.history.go.kr/front/ta/view.do?levelId=ta_m62_0050_0030",
+          "sourceTitle": "국사편찬위원회 우리역사넷 · 역대 국사교과서 · 동학 농민 운동",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-06-05",
+          "title": "갑오개혁: 신분제를 바꾸다",
+          "body": "1894년 갑오개혁 때 군국기무처는 신분 차별과 노비 제도의 폐지 등을 의결했습니다. 과부의 재가를 허용하고 연좌제를 폐지하는 사회 개혁도 추진했습니다.",
+          "recallQuestion": "군국기무처·신분제 폐지·과부의 재가 허용을 연결할 개혁은?",
+          "recallAnswer": "갑오개혁입니다.",
+          "contrast": "법과 제도의 변화가 사회의 모든 차별을 즉시 없앴다는 뜻은 아닙니다.",
+          "sourceUrl": "https://contents.history.go.kr/mobile/hm/view.do?levelId=hm_133_0010",
+          "sourceTitle": "국사편찬위원회 우리역사넷 · 갑오개혁기 신분제와 사회관습 개혁안",
           "status": "source-checked",
           "checkedBy": "Codex",
           "checkedAt": "2026-09-16"
@@ -325,7 +481,7 @@
       "nextTopics": [
         "시기별 식민 통치",
         "국내 사회·문화 운동",
-        "독립군과 한국광복군"
+        "1930년대 무장 독립운동"
       ],
       "cards": [
         {
@@ -366,6 +522,32 @@
           "status": "source-checked",
           "checkedBy": "Codex",
           "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-07-04",
+          "title": "1920년의 두 전투",
+          "body": "1920년 6월 봉오동 전투에서는 홍범도의 대한 독립군 등이 승리했습니다. 같은 해 10월 청산리에서는 김좌진의 북로 군정서군을 비롯한 독립군 부대들이 일본군에 맞섰습니다.",
+          "recallQuestion": "1920년 봉오동과 청산리 전투 중 먼저 일어난 것은?",
+          "recallAnswer": "6월 봉오동 전투가 먼저이고, 10월 청산리 전투가 뒤입니다.",
+          "contrast": "한 전투를 한 사람만의 활동으로 축소하지 말고 여러 부대의 참여를 함께 기억하세요.",
+          "sourceUrl": "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_m71_0100_0030_0010_0020",
+          "sourceTitle": "국사편찬위원회 우리역사넷 · 독립군의 승리",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-07-05",
+          "title": "임시정부의 한국광복군",
+          "body": "대한민국 임시정부는 1940년 중국 충칭에서 한국광복군을 창설했습니다. 임시정부가 조직한 군대라는 점을 충칭이라는 장소와 함께 연결해 보세요.",
+          "recallQuestion": "1940년·충칭·대한민국 임시정부를 연결할 군대는?",
+          "recallAnswer": "한국광복군입니다.",
+          "contrast": "1920년 만주의 독립군 전투와 1940년 한국광복군 창설을 구분하세요.",
+          "sourceUrl": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_40&levelId=kc_n400245",
+          "sourceTitle": "국사편찬위원회 우리역사넷 · 한국사연대기 · 김구",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
         }
       ]
     },
@@ -377,7 +559,6 @@
       "nextTopics": [
         "광복·정부 수립",
         "6·25 전쟁",
-        "4·19·5·18",
         "남북 관계"
       ],
       "cards": [
@@ -416,6 +597,32 @@
           "contrast": "5년이라는 숫자만 외우지 말고 직선·간선도 따로 구분하세요.",
           "sourceUrl": "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_h62_0050_0030_0030",
           "sourceTitle": "국사편찬위원회 우리역사넷",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-08-04",
+          "title": "4·19: 부정 선거에 맞서다",
+          "body": "1960년 3·15 부정 선거에 대한 저항은 4·19 혁명으로 이어졌습니다. 학생과 시민의 항쟁 속에서 이승만은 4월 26일 대통령직에서 물러나겠다고 발표했습니다.",
+          "recallQuestion": "3·15 부정 선거 → 4·19 혁명 뒤 대통령직에서 물러난 인물은?",
+          "recallAnswer": "이승만입니다.",
+          "contrast": "1960년 4·19 혁명과 1980년 5·18 민주화 운동을 구분하세요.",
+          "sourceUrl": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_149_0040",
+          "sourceTitle": "국사편찬위원회 우리역사넷 · 이승만 대통령 하야 성명",
+          "status": "source-checked",
+          "checkedBy": "Codex",
+          "checkedAt": "2026-09-16"
+        },
+        {
+          "id": "first-08-05",
+          "title": "5·18: 신군부에 맞선 시민",
+          "body": "1980년 광주와 전남의 시민들은 신군부의 권력 장악과 계엄 확대에 맞서 민주화를 요구했습니다. 계엄군의 무력 진압으로 많은 희생이 발생했습니다.",
+          "recallQuestion": "1980년·광주·신군부·계엄 철폐라는 단서가 가리키는 운동은?",
+          "recallAnswer": "5·18 민주화 운동입니다.",
+          "contrast": "대통령 직선제 개헌으로 이어진 1987년 6월 민주 항쟁과 구분하세요.",
+          "sourceUrl": "https://contents.history.go.kr/front/kc/printViewPopup.do?levelId=kc_i501000",
+          "sourceTitle": "국사편찬위원회 우리역사넷 · 한국사연대기 · 5·18 광주 민주화운동",
           "status": "source-checked",
           "checkedBy": "Codex",
           "checkedAt": "2026-09-16"
