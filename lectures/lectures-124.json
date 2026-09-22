@@ -1,0 +1,1127 @@
+{
+  "schema": "kh-lecture-catalog-v1",
+  "generatedAt": "2026-09-18T04:44:42.740Z",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLE7ogCa1_I6uj-gATOZg56-oMAJM1jpz3",
+  "playlistId": "PLE7ogCa1_I6uj-gATOZg56-oMAJM1jpz3",
+  "channel": "최태성 1TV",
+  "playlistTitle": "[심화별개념9] 한국사능력검정시험 심화 자막 속성 분절",
+  "mappingStatus": "title-based coarse grouping only; concepts/question links pending content review",
+  "videos": [
+    {
+      "position": 1,
+      "lessonCode": "1",
+      "label": "우리는 왜 역사를 공부하는가",
+      "videoId": "tQ4ON_f-wfI",
+      "displayDuration": "36:37",
+      "durationSeconds": 2197,
+      "eraGroup": "안내"
+    },
+    {
+      "position": 2,
+      "lessonCode": "2-1",
+      "label": "구석기 · 신석기 시대",
+      "videoId": "jCb3qpAgmtE",
+      "displayDuration": "19:56",
+      "durationSeconds": 1196,
+      "eraGroup": "선사·고조선·여러 나라"
+    },
+    {
+      "position": 3,
+      "lessonCode": "2-2",
+      "label": "청동기 · 철기 시대",
+      "videoId": "cPI3QKvMWgg",
+      "displayDuration": "16:48",
+      "durationSeconds": 1008,
+      "eraGroup": "선사·고조선·여러 나라"
+    },
+    {
+      "position": 4,
+      "lessonCode": "3-1",
+      "label": "고조선",
+      "videoId": "FsiChoDfTe4",
+      "displayDuration": "22:14",
+      "durationSeconds": 1334,
+      "eraGroup": "선사·고조선·여러 나라"
+    },
+    {
+      "position": 5,
+      "lessonCode": "3-2",
+      "label": "여러 나라의 성장",
+      "videoId": "ZjF5AxLcie4",
+      "displayDuration": "24:15",
+      "durationSeconds": 1455,
+      "eraGroup": "선사·고조선·여러 나라"
+    },
+    {
+      "position": 6,
+      "lessonCode": "4-1",
+      "label": "고구려의 성립",
+      "videoId": "xLLKlOotHOI",
+      "displayDuration": "24:02",
+      "durationSeconds": 1442,
+      "eraGroup": "고대·남북국"
+    },
+    {
+      "position": 7,
+      "lessonCode": "4-2",
+      "label": "고구려의 발전",
+      "videoId": "yoKaVpDy8gk",
+      "displayDuration": "20:39",
+      "durationSeconds": 1239,
+      "eraGroup": "고대·남북국"
+    },
+    {
+      "position": 8,
+      "lessonCode": "4-3",
+      "label": "가야",
+      "videoId": "OWWiWQsn_cE",
+      "displayDuration": "7:19",
+      "durationSeconds": 439,
+      "eraGroup": "고대·남북국"
+    },
+    {
+      "position": 9,
+      "lessonCode": "5-1",
+      "label": "백제",
+      "videoId": "hkn_kdFTZjA",
+      "displayDuration": "29:38",
+      "durationSeconds": 1778,
+      "eraGroup": "고대·남북국"
+    },
+    {
+      "position": 10,
+      "lessonCode": "5-2",
+      "label": "신라",
+      "videoId": "OLJluLGCV5g",
+      "displayDuration": "21:37",
+      "durationSeconds": 1297,
+      "eraGroup": "고대·남북국"
+    },
+    {
+      "position": 11,
+      "lessonCode": "6-1",
+      "label": "통일신라(전기)",
+      "videoId": "iWEvjMOOUMY",
+      "displayDuration": "24:35",
+      "durationSeconds": 1475,
+      "eraGroup": "고대·남북국"
+    },
+    {
+      "position": 12,
+      "lessonCode": "6-2",
+      "label": "통일신라(후기)",
+      "videoId": "oMQFVu5t6OM",
+      "displayDuration": "16:24",
+      "durationSeconds": 984,
+      "eraGroup": "고대·남북국"
+    },
+    {
+      "position": 13,
+      "lessonCode": "6-3",
+      "label": "발해(건국과 발전)",
+      "videoId": "36sO3sw1Vmk",
+      "displayDuration": "12:51",
+      "durationSeconds": 771,
+      "eraGroup": "고대·남북국"
+    },
+    {
+      "position": 14,
+      "lessonCode": "7-1",
+      "label": "고대의 경제",
+      "videoId": "LE-cXgmhvt8",
+      "displayDuration": "20:59",
+      "durationSeconds": 1259,
+      "eraGroup": "고대·남북국"
+    },
+    {
+      "position": 15,
+      "lessonCode": "7-2",
+      "label": "고대의 사회",
+      "videoId": "XLKWAvqBMqU",
+      "displayDuration": "16:46",
+      "durationSeconds": 1006,
+      "eraGroup": "고대·남북국"
+    },
+    {
+      "position": 16,
+      "lessonCode": "8-1",
+      "label": "유교",
+      "videoId": "MsHxozx2WWM",
+      "displayDuration": "16:48",
+      "durationSeconds": 1008,
+      "eraGroup": "고대·남북국"
+    },
+    {
+      "position": 17,
+      "lessonCode": "8-2",
+      "label": "역사, 도교",
+      "videoId": "2uSocvV4nhg",
+      "displayDuration": "5:58",
+      "durationSeconds": 358,
+      "eraGroup": "고대·남북국"
+    },
+    {
+      "position": 18,
+      "lessonCode": "8-3",
+      "label": "불교",
+      "videoId": "HHTWSVdbd68",
+      "displayDuration": "17:53",
+      "durationSeconds": 1073,
+      "eraGroup": "고대·남북국"
+    },
+    {
+      "position": 19,
+      "lessonCode": "8-4",
+      "label": "불상, 불탑",
+      "videoId": "0A60xaCDMpg",
+      "displayDuration": "19:02",
+      "durationSeconds": 1142,
+      "eraGroup": "고대·남북국"
+    },
+    {
+      "position": 20,
+      "lessonCode": "9-1",
+      "label": "과학",
+      "videoId": "Vjf4yG2NQMM",
+      "displayDuration": "9:32",
+      "durationSeconds": 572,
+      "eraGroup": "고대·남북국"
+    },
+    {
+      "position": 21,
+      "lessonCode": "9-2",
+      "label": "건축",
+      "videoId": "laoDIps6LNE",
+      "displayDuration": "2:12",
+      "durationSeconds": 132,
+      "eraGroup": "고대·남북국"
+    },
+    {
+      "position": 22,
+      "lessonCode": "9-3",
+      "label": "고분",
+      "videoId": "RUGqfW-3lX0",
+      "displayDuration": "12:42",
+      "durationSeconds": 762,
+      "eraGroup": "고대·남북국"
+    },
+    {
+      "position": 23,
+      "lessonCode": "9-4",
+      "label": "대외 교류",
+      "videoId": "la3oV5ySEYY",
+      "displayDuration": "7:48",
+      "durationSeconds": 468,
+      "eraGroup": "고대·남북국"
+    },
+    {
+      "position": 24,
+      "lessonCode": "10-1",
+      "label": "고려 시대 구분",
+      "videoId": "YyXZmGPSYik",
+      "displayDuration": "10:17",
+      "durationSeconds": 617,
+      "eraGroup": "고려"
+    },
+    {
+      "position": 25,
+      "lessonCode": "10-2",
+      "label": "호족",
+      "videoId": "5RgTNF-wGzc",
+      "displayDuration": "21:52",
+      "durationSeconds": 1312,
+      "eraGroup": "고려"
+    },
+    {
+      "position": 26,
+      "lessonCode": "10-3",
+      "label": "중앙 정치 조직",
+      "videoId": "QPD_PyegaZg",
+      "displayDuration": "16:31",
+      "durationSeconds": 991,
+      "eraGroup": "고려"
+    },
+    {
+      "position": 27,
+      "lessonCode": "10-4",
+      "label": "지방 행정 체제",
+      "videoId": "g8XkYHH4lXQ",
+      "displayDuration": "12:47",
+      "durationSeconds": 767,
+      "eraGroup": "고려"
+    },
+    {
+      "position": 28,
+      "lessonCode": "11-1",
+      "label": "중기 정치",
+      "videoId": "7HgwjQubaiA",
+      "displayDuration": "20:37",
+      "durationSeconds": 1237,
+      "eraGroup": "고려"
+    },
+    {
+      "position": 29,
+      "lessonCode": "11-2",
+      "label": "무신정변",
+      "videoId": "QvgvJYTGHb4",
+      "displayDuration": "9:18",
+      "durationSeconds": 558,
+      "eraGroup": "고려"
+    },
+    {
+      "position": 30,
+      "lessonCode": "12-1",
+      "label": "거란(요)",
+      "videoId": "PJLQiE85sJA",
+      "displayDuration": "12:19",
+      "durationSeconds": 739,
+      "eraGroup": "고려"
+    },
+    {
+      "position": 31,
+      "lessonCode": "12-2",
+      "label": "여진(금)",
+      "videoId": "ROiWp_Z12Io",
+      "displayDuration": "4:46",
+      "durationSeconds": 286,
+      "eraGroup": "고려"
+    },
+    {
+      "position": 32,
+      "lessonCode": "12-3",
+      "label": "몽골(원)",
+      "videoId": "UqaftgK7caA",
+      "displayDuration": "23:38",
+      "durationSeconds": 1418,
+      "eraGroup": "고려"
+    },
+    {
+      "position": 33,
+      "lessonCode": "12-4",
+      "label": "홍건적·왜구",
+      "videoId": "0HIRX2WMtG8",
+      "displayDuration": "8:41",
+      "durationSeconds": 521,
+      "eraGroup": "고려"
+    },
+    {
+      "position": 34,
+      "lessonCode": "13-1",
+      "label": "경제",
+      "videoId": "8ksnYvV4jp8",
+      "displayDuration": "29:05",
+      "durationSeconds": 1745,
+      "eraGroup": "고려"
+    },
+    {
+      "position": 35,
+      "lessonCode": "13-2",
+      "label": "사회",
+      "videoId": "6cf3KcUT5j4",
+      "displayDuration": "15:39",
+      "durationSeconds": 939,
+      "eraGroup": "고려"
+    },
+    {
+      "position": 36,
+      "lessonCode": "14-1",
+      "label": "유학",
+      "videoId": "wlpHRFkQOrU",
+      "displayDuration": "19:33",
+      "durationSeconds": 1173,
+      "eraGroup": "고려"
+    },
+    {
+      "position": 37,
+      "lessonCode": "14-2",
+      "label": "역사",
+      "videoId": "iZJPm-HCTBY",
+      "displayDuration": "8:29",
+      "durationSeconds": 509,
+      "eraGroup": "고려"
+    },
+    {
+      "position": 38,
+      "lessonCode": "14-3",
+      "label": "불교·풍수지리설",
+      "videoId": "B7T5gUmyXwQ",
+      "displayDuration": "15:26",
+      "durationSeconds": 926,
+      "eraGroup": "고려"
+    },
+    {
+      "position": 39,
+      "lessonCode": "15-1",
+      "label": "불상·회화",
+      "videoId": "QfTmhGIuNLs",
+      "displayDuration": "15:17",
+      "durationSeconds": 917,
+      "eraGroup": "고려"
+    },
+    {
+      "position": 40,
+      "lessonCode": "15-2",
+      "label": "불탑",
+      "videoId": "cgeegBCUfjo",
+      "displayDuration": "7:08",
+      "durationSeconds": 428,
+      "eraGroup": "고려"
+    },
+    {
+      "position": 41,
+      "lessonCode": "15-3",
+      "label": "공예",
+      "videoId": "4Cw8_jIKRu0",
+      "displayDuration": "3:05",
+      "durationSeconds": 185,
+      "eraGroup": "고려"
+    },
+    {
+      "position": 42,
+      "lessonCode": "15-4",
+      "label": "인쇄",
+      "videoId": "PE6goueNcjg",
+      "displayDuration": "5:59",
+      "durationSeconds": 359,
+      "eraGroup": "고려"
+    },
+    {
+      "position": 43,
+      "lessonCode": "15-5",
+      "label": "건축",
+      "videoId": "jTp-DYoVUQM",
+      "displayDuration": "6:35",
+      "durationSeconds": 395,
+      "eraGroup": "고려"
+    },
+    {
+      "position": 44,
+      "lessonCode": "15-6",
+      "label": "과학·의학·무기",
+      "videoId": "l9lw5W2rosE",
+      "displayDuration": "4:08",
+      "durationSeconds": 248,
+      "eraGroup": "고려"
+    },
+    {
+      "position": 45,
+      "lessonCode": "16-1",
+      "label": "조선의 건국 과정과 발전",
+      "videoId": "MPgtNXTqGQw",
+      "displayDuration": "23:09",
+      "durationSeconds": 1389,
+      "eraGroup": "조선 전기"
+    },
+    {
+      "position": 46,
+      "lessonCode": "16-2",
+      "label": "사화",
+      "videoId": "GGmvTZT2YKM",
+      "displayDuration": "13:02",
+      "durationSeconds": 782,
+      "eraGroup": "조선 전기"
+    },
+    {
+      "position": 47,
+      "lessonCode": "16-3",
+      "label": "붕당의 형성",
+      "videoId": "79jIiKLJAXY",
+      "displayDuration": "10:28",
+      "durationSeconds": 628,
+      "eraGroup": "조선 전기"
+    },
+    {
+      "position": 48,
+      "lessonCode": "17-1",
+      "label": "행정 조직(중앙)",
+      "videoId": "p98aEgR8Uts",
+      "displayDuration": "9:49",
+      "durationSeconds": 589,
+      "eraGroup": "조선 전기"
+    },
+    {
+      "position": 49,
+      "lessonCode": "17-2",
+      "label": "행정 조직(지방)",
+      "videoId": "gbj3L8je0XQ",
+      "displayDuration": "9:47",
+      "durationSeconds": 587,
+      "eraGroup": "조선 전기"
+    },
+    {
+      "position": 50,
+      "lessonCode": "17-3",
+      "label": "관리 선발 방식",
+      "videoId": "7-98jja8k2k",
+      "displayDuration": "6:13",
+      "durationSeconds": 373,
+      "eraGroup": "조선 전기"
+    },
+    {
+      "position": 51,
+      "lessonCode": "17-4",
+      "label": "군사 조직",
+      "videoId": "w7vxNeoosYA",
+      "displayDuration": "6:58",
+      "durationSeconds": 418,
+      "eraGroup": "조선 전기"
+    },
+    {
+      "position": 52,
+      "lessonCode": "18-1",
+      "label": "조선 초기의 대외 관계",
+      "videoId": "PwGDptItt9M",
+      "displayDuration": "11:44",
+      "durationSeconds": 704,
+      "eraGroup": "조선 전기"
+    },
+    {
+      "position": 53,
+      "lessonCode": "18-2",
+      "label": "임진왜란",
+      "videoId": "ZljA5AQLEnk",
+      "displayDuration": "16:00",
+      "durationSeconds": 960,
+      "eraGroup": "조선 전기"
+    },
+    {
+      "position": 54,
+      "lessonCode": "18-3",
+      "label": "병자호란",
+      "videoId": "4_OPkPvmUqc",
+      "displayDuration": "9:33",
+      "durationSeconds": 573,
+      "eraGroup": "조선 전기"
+    },
+    {
+      "position": 55,
+      "lessonCode": "19-1",
+      "label": "경제",
+      "videoId": "ohUFAJiX_dw",
+      "displayDuration": "24:52",
+      "durationSeconds": 1492,
+      "eraGroup": "조선 전기"
+    },
+    {
+      "position": 56,
+      "lessonCode": "19-2",
+      "label": "사회",
+      "videoId": "JGUWW0KPNx0",
+      "displayDuration": "25:10",
+      "durationSeconds": 1510,
+      "eraGroup": "조선 전기"
+    },
+    {
+      "position": 57,
+      "lessonCode": "20-1",
+      "label": "유학",
+      "videoId": "7vkdg1svQ9c",
+      "displayDuration": "15:42",
+      "durationSeconds": 942,
+      "eraGroup": "조선 전기"
+    },
+    {
+      "position": 58,
+      "lessonCode": "20-2",
+      "label": "불교, 역사",
+      "videoId": "MQPzGUYIgbE",
+      "displayDuration": "8:49",
+      "durationSeconds": 529,
+      "eraGroup": "조선 전기"
+    },
+    {
+      "position": 59,
+      "lessonCode": "20-3",
+      "label": "지리, 법·윤리, 음악",
+      "videoId": "YBw5Bhk8Y4E",
+      "displayDuration": "8:33",
+      "durationSeconds": 513,
+      "eraGroup": "조선 전기"
+    },
+    {
+      "position": 60,
+      "lessonCode": "21-1",
+      "label": "문자, 천문·역법, 의학·농서",
+      "videoId": "OjiOKUSCl3A",
+      "displayDuration": "12:07",
+      "durationSeconds": 727,
+      "eraGroup": "조선 전기"
+    },
+    {
+      "position": 61,
+      "lessonCode": "21-2",
+      "label": "건축·탑",
+      "videoId": "452G0HLl4xs",
+      "displayDuration": "11:29",
+      "durationSeconds": 689,
+      "eraGroup": "조선 전기"
+    },
+    {
+      "position": 62,
+      "lessonCode": "21-3",
+      "label": "공예, 회화, 문학",
+      "videoId": "qEn8h-SVCX8",
+      "displayDuration": "6:11",
+      "durationSeconds": 371,
+      "eraGroup": "조선 전기"
+    },
+    {
+      "position": 63,
+      "lessonCode": "22-1",
+      "label": "붕당 정치의 전개",
+      "videoId": "dZ8sf0ryuC8",
+      "displayDuration": "9:51",
+      "durationSeconds": 591,
+      "eraGroup": "조선 후기"
+    },
+    {
+      "position": 64,
+      "lessonCode": "22-2",
+      "label": "예송~환국",
+      "videoId": "dqhhk6hjD7c",
+      "displayDuration": "14:16",
+      "durationSeconds": 856,
+      "eraGroup": "조선 후기"
+    },
+    {
+      "position": 65,
+      "lessonCode": "22-3",
+      "label": "탕평, 세도 정치",
+      "videoId": "_Tb2e2Pe4E0",
+      "displayDuration": "14:19",
+      "durationSeconds": 859,
+      "eraGroup": "조선 후기"
+    },
+    {
+      "position": 66,
+      "lessonCode": "23-1",
+      "label": "조직",
+      "videoId": "JdSf_rrCnTc",
+      "displayDuration": "11:58",
+      "durationSeconds": 718,
+      "eraGroup": "조선 후기"
+    },
+    {
+      "position": 67,
+      "lessonCode": "23-2",
+      "label": "외교(여진)",
+      "videoId": "bfaQ1Cg2l5o",
+      "displayDuration": "10:02",
+      "durationSeconds": 602,
+      "eraGroup": "조선 후기"
+    },
+    {
+      "position": 68,
+      "lessonCode": "23-3",
+      "label": "외교(일본)",
+      "videoId": "7tvqgILgtJU",
+      "displayDuration": "8:25",
+      "durationSeconds": 505,
+      "eraGroup": "조선 후기"
+    },
+    {
+      "position": 69,
+      "lessonCode": "24-1",
+      "label": "수취체제",
+      "videoId": "ioQXF9DUYUk",
+      "displayDuration": "17:09",
+      "durationSeconds": 1029,
+      "eraGroup": "조선 후기"
+    },
+    {
+      "position": 70,
+      "lessonCode": "24-2",
+      "label": "농업",
+      "videoId": "3xIfmYZg-NE",
+      "displayDuration": "11:05",
+      "durationSeconds": 665,
+      "eraGroup": "조선 후기"
+    },
+    {
+      "position": 71,
+      "lessonCode": "24-3",
+      "label": "상업",
+      "videoId": "JRlygH-RKgo",
+      "displayDuration": "20:09",
+      "durationSeconds": 1209,
+      "eraGroup": "조선 후기"
+    },
+    {
+      "position": 72,
+      "lessonCode": "24-4",
+      "label": "수공업, 광업",
+      "videoId": "p7mMesrOut8",
+      "displayDuration": "7:39",
+      "durationSeconds": 459,
+      "eraGroup": "조선 후기"
+    },
+    {
+      "position": 73,
+      "lessonCode": "25-1",
+      "label": "신분제의 동요",
+      "videoId": "Z3Jh2Jfj-08",
+      "displayDuration": "27:15",
+      "durationSeconds": 1635,
+      "eraGroup": "조선 후기"
+    },
+    {
+      "position": 74,
+      "lessonCode": "25-2",
+      "label": "19세기 민란",
+      "videoId": "iTw4v1RntYQ",
+      "displayDuration": "7:06",
+      "durationSeconds": 426,
+      "eraGroup": "조선 후기"
+    },
+    {
+      "position": 75,
+      "lessonCode": "26-1",
+      "label": "양명학, 실학",
+      "videoId": "OGZPo4Mp51c",
+      "displayDuration": "25:47",
+      "durationSeconds": 1547,
+      "eraGroup": "조선 후기"
+    },
+    {
+      "position": 76,
+      "lessonCode": "26-2",
+      "label": "국학의 발달",
+      "videoId": "_hjJf0HsVSo",
+      "displayDuration": "11:11",
+      "durationSeconds": 671,
+      "eraGroup": "조선 후기"
+    },
+    {
+      "position": 77,
+      "lessonCode": "27-1",
+      "label": "과학 기술의 발달",
+      "videoId": "e8C048cf5K0",
+      "displayDuration": "11:10",
+      "durationSeconds": 670,
+      "eraGroup": "조선 후기"
+    },
+    {
+      "position": 78,
+      "lessonCode": "27-2",
+      "label": "서민문화의 발달",
+      "videoId": "_4FjGqSKIcI",
+      "displayDuration": "21:45",
+      "durationSeconds": 1305,
+      "eraGroup": "조선 후기"
+    },
+    {
+      "position": 79,
+      "lessonCode": "28-1",
+      "label": "대내 정책",
+      "videoId": "_kGi_kLoaHc",
+      "displayDuration": "14:03",
+      "durationSeconds": 843,
+      "eraGroup": "개항기"
+    },
+    {
+      "position": 80,
+      "lessonCode": "28-2",
+      "label": "대외정책",
+      "videoId": "5klcgNk9u9I",
+      "displayDuration": "13:58",
+      "durationSeconds": 838,
+      "eraGroup": "개항기"
+    },
+    {
+      "position": 81,
+      "lessonCode": "29-1",
+      "label": "조일수호조규(강화도조약)",
+      "videoId": "UGiZmtVjVxM",
+      "displayDuration": "15:58",
+      "durationSeconds": 958,
+      "eraGroup": "개항기"
+    },
+    {
+      "position": 82,
+      "lessonCode": "29-2",
+      "label": "개화 정책의 추진",
+      "videoId": "zu3SghvWmE8",
+      "displayDuration": "15:33",
+      "durationSeconds": 933,
+      "eraGroup": "개항기"
+    },
+    {
+      "position": 83,
+      "lessonCode": "29-3",
+      "label": "임오군란",
+      "videoId": "TPJnpf_x47Y",
+      "displayDuration": "10:41",
+      "durationSeconds": 641,
+      "eraGroup": "개항기"
+    },
+    {
+      "position": 84,
+      "lessonCode": "29-4",
+      "label": "갑신정변",
+      "videoId": "7zE1gah7jmo",
+      "displayDuration": "11:34",
+      "durationSeconds": 694,
+      "eraGroup": "개항기"
+    },
+    {
+      "position": 85,
+      "lessonCode": "30-1",
+      "label": "갑신정변 이후 국내외 정세",
+      "videoId": "kKjjwr24EZM",
+      "displayDuration": "8:08",
+      "durationSeconds": 488,
+      "eraGroup": "개항기"
+    },
+    {
+      "position": 86,
+      "lessonCode": "30-2",
+      "label": "동학 농민 운동",
+      "videoId": "Z2qXTZlygQM",
+      "displayDuration": "14:50",
+      "durationSeconds": 890,
+      "eraGroup": "개항기"
+    },
+    {
+      "position": 87,
+      "lessonCode": "30-3",
+      "label": "갑오개혁",
+      "videoId": "iXCxGv8tLxs",
+      "displayDuration": "17:09",
+      "durationSeconds": 1029,
+      "eraGroup": "개항기"
+    },
+    {
+      "position": 88,
+      "lessonCode": "30-4",
+      "label": "독립협회, 대한 제국",
+      "videoId": "JUDp8JsX1IA",
+      "displayDuration": "14:25",
+      "durationSeconds": 865,
+      "eraGroup": "개항기"
+    },
+    {
+      "position": 89,
+      "lessonCode": "31-1",
+      "label": "국권 침탈 과정",
+      "videoId": "37h-n4en754",
+      "displayDuration": "12:20",
+      "durationSeconds": 740,
+      "eraGroup": "개항기"
+    },
+    {
+      "position": 90,
+      "lessonCode": "31-2",
+      "label": "항일 의거 활동",
+      "videoId": "lTFHQV2J5dU",
+      "displayDuration": "5:06",
+      "durationSeconds": 306,
+      "eraGroup": "개항기"
+    },
+    {
+      "position": 91,
+      "lessonCode": "31-3",
+      "label": "애국 계몽 운동",
+      "videoId": "pCnpa14sW64",
+      "displayDuration": "13:34",
+      "durationSeconds": 814,
+      "eraGroup": "개항기"
+    },
+    {
+      "position": 92,
+      "lessonCode": "31-4",
+      "label": "의병 활동",
+      "videoId": "Qjf8ZobI_eY",
+      "displayDuration": "10:29",
+      "durationSeconds": 629,
+      "eraGroup": "개항기"
+    },
+    {
+      "position": 93,
+      "lessonCode": "32-1",
+      "label": "열강의 경제 침탈",
+      "videoId": "9sM9cYp9IS0",
+      "displayDuration": "21:01",
+      "durationSeconds": 1261,
+      "eraGroup": "개항기"
+    },
+    {
+      "position": 94,
+      "lessonCode": "32-2",
+      "label": "경제적 구국운동",
+      "videoId": "_V2ez4Rdpfw",
+      "displayDuration": "12:26",
+      "durationSeconds": 746,
+      "eraGroup": "개항기"
+    },
+    {
+      "position": 95,
+      "lessonCode": "33-1",
+      "label": "언론의 발달",
+      "videoId": "9YHLUApxV90",
+      "displayDuration": "10:55",
+      "durationSeconds": 655,
+      "eraGroup": "개항기"
+    },
+    {
+      "position": 96,
+      "lessonCode": "33-2",
+      "label": "근대 기술의 도입",
+      "videoId": "KKkyjPBV1Xs",
+      "displayDuration": "7:27",
+      "durationSeconds": 447,
+      "eraGroup": "개항기"
+    },
+    {
+      "position": 97,
+      "lessonCode": "33-3",
+      "label": "근대 교육의 발달",
+      "videoId": "Y9WyQizwpfo",
+      "displayDuration": "8:48",
+      "durationSeconds": 528,
+      "eraGroup": "개항기"
+    },
+    {
+      "position": 98,
+      "lessonCode": "33-4",
+      "label": "문예, 국학, 종교의 변화",
+      "videoId": "ICEz5kFq1og",
+      "displayDuration": "8:09",
+      "durationSeconds": 489,
+      "eraGroup": "개항기"
+    },
+    {
+      "position": 99,
+      "lessonCode": "34-1",
+      "label": "1910년대 식민 지배 정책",
+      "videoId": "wDltDxIFago",
+      "displayDuration": "13:28",
+      "durationSeconds": 808,
+      "eraGroup": "일제강점기"
+    },
+    {
+      "position": 100,
+      "lessonCode": "34-2",
+      "label": "1920년대 식민 지배 정책",
+      "videoId": "Eg4wxaByl3E",
+      "displayDuration": "약16분",
+      "durationSeconds": null,
+      "eraGroup": "일제강점기"
+    },
+    {
+      "position": 101,
+      "lessonCode": "34-3",
+      "label": "1930년대 이후 식민 지배 정책",
+      "videoId": "Uo1oIA_ssxo",
+      "displayDuration": "13:05",
+      "durationSeconds": 785,
+      "eraGroup": "일제강점기"
+    },
+    {
+      "position": 102,
+      "lessonCode": "35-1",
+      "label": "1910년대 국내외 항일 운동",
+      "videoId": "w3ng3yHXiYM",
+      "displayDuration": "22:56",
+      "durationSeconds": 1376,
+      "eraGroup": "일제강점기"
+    },
+    {
+      "position": 103,
+      "lessonCode": "35-2",
+      "label": "3·1 운동",
+      "videoId": "TrVc5A7xqAc",
+      "displayDuration": "11:19",
+      "durationSeconds": 679,
+      "eraGroup": "일제강점기"
+    },
+    {
+      "position": 104,
+      "lessonCode": "35-3",
+      "label": "대한민국 임시 정부의 활동",
+      "videoId": "WLLE0XnkfWk",
+      "displayDuration": "22:02",
+      "durationSeconds": 1322,
+      "eraGroup": "일제강점기"
+    },
+    {
+      "position": 105,
+      "lessonCode": "36-1",
+      "label": "실력 양성 운동",
+      "videoId": "LSRUZC60C3s",
+      "displayDuration": "25:24",
+      "durationSeconds": 1524,
+      "eraGroup": "일제강점기"
+    },
+    {
+      "position": 106,
+      "lessonCode": "36-2",
+      "label": "대중운동, 의열투쟁",
+      "videoId": "3OBUBiFUaro",
+      "displayDuration": "17:29",
+      "durationSeconds": 1049,
+      "eraGroup": "일제강점기"
+    },
+    {
+      "position": 107,
+      "lessonCode": "36-3",
+      "label": "민족 문화 수호운동",
+      "videoId": "4VmTf27Za7U",
+      "displayDuration": "6:21",
+      "durationSeconds": 381,
+      "eraGroup": "일제강점기"
+    },
+    {
+      "position": 108,
+      "lessonCode": "36-4",
+      "label": "국외 항일 투쟁",
+      "videoId": "swVOaJuPcJA",
+      "displayDuration": "10:31",
+      "durationSeconds": 631,
+      "eraGroup": "일제강점기"
+    },
+    {
+      "position": 109,
+      "lessonCode": "37-1",
+      "label": "한중 연합 작전",
+      "videoId": "xtgfyhW2ZAA",
+      "displayDuration": "8:21",
+      "durationSeconds": 501,
+      "eraGroup": "일제강점기"
+    },
+    {
+      "position": 110,
+      "lessonCode": "37-2",
+      "label": "중국 관내 항일운동",
+      "videoId": "weI6d0jGKYA",
+      "displayDuration": "14:35",
+      "durationSeconds": 875,
+      "eraGroup": "일제강점기"
+    },
+    {
+      "position": 111,
+      "lessonCode": "37-3",
+      "label": "민족 문화 수호운동(1930년대)",
+      "videoId": "Sr7mo0xvrYI",
+      "displayDuration": "16:37",
+      "durationSeconds": 997,
+      "eraGroup": "일제강점기"
+    },
+    {
+      "position": 112,
+      "lessonCode": "37-4",
+      "label": "건국 준비 활동",
+      "videoId": "uh0oniz7Kyw",
+      "displayDuration": "5:11",
+      "durationSeconds": 311,
+      "eraGroup": "일제강점기"
+    },
+    {
+      "position": 113,
+      "lessonCode": "38-1",
+      "label": "광복",
+      "videoId": "p660LPim9m8",
+      "displayDuration": "22:46",
+      "durationSeconds": 1366,
+      "eraGroup": "현대"
+    },
+    {
+      "position": 114,
+      "lessonCode": "38-2",
+      "label": "대한민국 정부 수립",
+      "videoId": "9YveTd33YgA",
+      "displayDuration": "11:41",
+      "durationSeconds": 701,
+      "eraGroup": "현대"
+    },
+    {
+      "position": 115,
+      "lessonCode": "38-3",
+      "label": "6·25 전쟁",
+      "videoId": "0Fa-EPAzOtk",
+      "displayDuration": "7:43",
+      "durationSeconds": 463,
+      "eraGroup": "현대"
+    },
+    {
+      "position": 116,
+      "lessonCode": "39-1",
+      "label": "이승만 정부",
+      "videoId": "llTtbCrG-7Q",
+      "displayDuration": "13:15",
+      "durationSeconds": 795,
+      "eraGroup": "현대"
+    },
+    {
+      "position": 117,
+      "lessonCode": "39-2",
+      "label": "장면 정부",
+      "videoId": "yNUUv5G3xL4",
+      "displayDuration": "8:21",
+      "durationSeconds": 501,
+      "eraGroup": "현대"
+    },
+    {
+      "position": 118,
+      "lessonCode": "39-3",
+      "label": "박정희 정부",
+      "videoId": "-WSTbniCpis",
+      "displayDuration": "23:37",
+      "durationSeconds": 1417,
+      "eraGroup": "현대"
+    },
+    {
+      "position": 119,
+      "lessonCode": "39-4",
+      "label": "전두환 정부",
+      "videoId": "m6BzbxOxdUU",
+      "displayDuration": "12:10",
+      "durationSeconds": 730,
+      "eraGroup": "현대"
+    },
+    {
+      "position": 120,
+      "lessonCode": "39-5",
+      "label": "노태우 정부 이후",
+      "videoId": "CvbWxBfOJSs",
+      "displayDuration": "3:28",
+      "durationSeconds": 208,
+      "eraGroup": "현대"
+    },
+    {
+      "position": 121,
+      "lessonCode": "40-1",
+      "label": "경제(이승만 정부)",
+      "videoId": "uNd6qp-q8d0",
+      "displayDuration": "10:27",
+      "durationSeconds": 627,
+      "eraGroup": "현대"
+    },
+    {
+      "position": 122,
+      "lessonCode": "40-2",
+      "label": "경제(박정희 정부)",
+      "videoId": "XkvMoVZIMTI",
+      "displayDuration": "8:30",
+      "durationSeconds": 510,
+      "eraGroup": "현대"
+    },
+    {
+      "position": 123,
+      "lessonCode": "40-3",
+      "label": "경제(전두환 정부 이후)",
+      "videoId": "aUT3EiTMqdw",
+      "displayDuration": "9:26",
+      "durationSeconds": 566,
+      "eraGroup": "현대"
+    },
+    {
+      "position": 124,
+      "lessonCode": "40-4",
+      "label": "통일 정책",
+      "videoId": "PSJpblKRFgc",
+      "displayDuration": "13:46",
+      "durationSeconds": 826,
+      "eraGroup": "현대"
+    }
+  ]
+}
